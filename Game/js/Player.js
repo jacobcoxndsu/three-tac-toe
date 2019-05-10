@@ -1,5 +1,7 @@
 /*
-PLayer object.
+Copyright 2018 Jacob Cox
+Released under MIT License, included with this project.
+Player object.
 Contains the player attributes and the cubes the player has selected
 */
 function Player(){
